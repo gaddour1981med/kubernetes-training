@@ -1,9 +1,9 @@
 #!/bin/bash
 
 KUBERNETES_POD_NETWORK="172.18.0.0/16"
-MASTER_IP="192.168.60.10"
+MASTER_IP="192.168.60.20"
 
-# check if a k8s cluster is already up and running
+# check if a k8sy cluster is already up and running
 kubectl cluster-info > /dev/null 2>&1
 if [ $? -eq 0 ] ; then
 	exit 0
