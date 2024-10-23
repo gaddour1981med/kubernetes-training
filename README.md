@@ -1,6 +1,11 @@
 # kubernetes-training
 Kubernetes trainings
 
+J’ai decidé d’offrir des coupons pour mes fidéles lecteurs medium pour ce cours avec une remise exceptionnelle. Vous pouvez achéter ce cours avec seullement 9.99$ au lieu de 49.99$.
+Le nombre de coupons est limité pour une durée limitée de 04 jours. profitez-en.
+
+https://www.udemy.com/course/creer-et-administrer-votre-cluster-kubernetes/?couponCode=4F48E2E651EB2642409A.
+
 ## Que vont apprendre les participants inscrits à votre cours ? ##
 
 1. Utiliser vagrant pour créer un Bare Metal kubernetes  cluster
